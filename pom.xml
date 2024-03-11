@@ -153,7 +153,7 @@
           <artifactId>exec-maven-plugin</artifactId>
           <version>3.2.0</version> <!-- Use the appropriate version -->
           <configuration>
-            <mainClass>com.ontariotechu.sofe3980U.KMeansApp</mainClass>
+            <mainClass>com.ontariotechu.sofe3980U.App</mainClass>
           </configuration>
         </plugin>
       </plugins>

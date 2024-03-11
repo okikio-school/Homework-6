@@ -6,3 +6,9 @@ To install all the dependencies for JavaML
 ```sh
 ./install.sh
 ```
+
+To run the app, 
+
+```sh
+mvn exec:java
+```
